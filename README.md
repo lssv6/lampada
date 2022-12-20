@@ -95,7 +95,7 @@ Agradecemos a todos os colaboradores do projeto, àos voluntários que tiveram c
 
 #### Desenvolvedores
 Todos os envolvidos na elaboração foram bastante assíduos em colaborar com o projeto como um todo porém vale destacar a especialidade de cada um:
-- Lucas Sousa Silva (Backend e hospedagem)
-- Dayvison Lima (Frontend)
-- Alexsander Nunes Bezerra(Artigo, planejamento e liderança)
+- Lucas Sousa Silva
+- Dayvison Lima
+- Alexsander Nunes Bezerra
 

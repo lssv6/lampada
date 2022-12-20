@@ -58,7 +58,7 @@ docker build . -t lampada-frontend
 ```
 Para por o frontend no ar, devemos executar o seguinte código:
 ```
-docker run -d -p 8080:80 lampada-frontend
+docker run -d -p 80:80 lampada-frontend
 ```
 
 ## Como funciona?

@@ -82,12 +82,13 @@ apesar de a construção ter sido um tanto exótica, seu funcionamento/conceito 
 Ele ouve clientes websockets e altera o estado de uma variável interna que representa o estado lógico da lâmpada conforme o que foi alterado no website e notifica a todos os clientes conectados os estado atual quando isso acontecer.
 
 Simplificando:
-*Cliente 1* conecta e é informado do estado atual da lâmpada(por exemplo:desligada).
-*Cliente 1* altera o estado(lampada liga tanto no arduino quanto no website).
-Todos os clientes *(Cliente 1)* é informado do estado atual da lâmpada(ligada).
-*Cliente 2* conecta é informado do estado atual da lâmpada(ligada).
-*Cliente 2* altera o estado(lampada desliga no site e no arduino).
-Todos os clientes *(Cliente 1 e Cliente 2)* são informados do estado atual da lâmpada(desligada).
+
+- *Cliente 1* conecta e é informado do estado atual da lâmpada(por exemplo:desligada).
+- *Cliente 1* altera o estado(lampada liga tanto no arduino quanto no website).
+- Todos os clientes *(Cliente 1)* é informado do estado atual da lâmpada(ligada).
+- *Cliente 2* conecta é informado do estado atual da lâmpada(ligada).
+- *Cliente 2* altera o estado(lampada desliga no site e no arduino).
+- Todos os clientes *(Cliente 1 e Cliente 2)* são informados do estado atual da lâmpada(desligada).
 
 # Agradecimentos
 Agradecemos a todos os colaboradores do projeto, àos voluntários que tiveram coragem de testar o nosso site.

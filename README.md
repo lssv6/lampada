@@ -94,8 +94,7 @@ Simplificando:
 Agradecemos a todos os colaboradores do projeto, àos voluntários que tiveram coragem de testar o nosso site.
 
 #### Desenvolvedores
-Todos os envolvidos na elaboração foram bastante assíduos em colaborar com o projeto como um todo porém vale destacar a especialidade de cada um:
-- Lucas Sousa Silva
-- Dayvison Lima
+Todos os envolvidos na elaboração foram bastante assíduos em colaborar com o projeto como um todo:
 - Alexsander Nunes Bezerra
-
+- Dayvison Lima
+- Lucas Sousa Silva
